@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm swati Bersurda</h1>
+<h1 align="center">Hi 👋, I'm Swati Bersurda</h1>
 <h3 align="center">Enthusiastic and solution-oriented aspiring full-stack developer.Self-directed and willing, with a keen interest in building user-centric products.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatibersurda&label=Profile%20views&color=0e75b6&style=flat" alt="swatibersurda" /> </p> -->
