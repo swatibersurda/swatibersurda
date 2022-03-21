@@ -3,7 +3,7 @@
 
 ##👩‍🎓 About me...
 - 📖 Learning MERN stack .
-- 👀 Keen to build and develop high-quality user-oriented products by using my technical knowledge and skills.
+- 👀 Keen to build and develop high-quality user-oriented products by using my technical skills.
 - 📫 How to reach me via Mail swatibersurda@gmail.com
 - ⚡ I love reading blogs, Exploring nature.
 
