@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swati Bersurda</h1>
 <h3 align="center">Enthusiastic and solution-oriented aspiring full-stack developer.Self-directed and willing, with a keen interest in building user-centric products. I like to write logical and styled code it makes me more enthusiastic.</h3>
-##👩‍🎓 About me...
+
+##👩‍🎓 About me...'
+
+
 - 🌱 I’m currently learning **Chakra UI**
 
 - 💬 Ask me about **React,JavaScript,nodeJs,Express,MongoDb**
