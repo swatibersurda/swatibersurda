@@ -5,7 +5,7 @@
    
    ##👩‍🎓 About me...'
 
-- 🌱 I’m currently learning **Chakra UI**
+- 🌱 I’m currently learning **Chakra UI,SQL**
 
 - 💬 Ask me about **React,JavaScript,nodeJs,Express,MongoDb**
 
