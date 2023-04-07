@@ -5,7 +5,7 @@
    
    ##👩‍🎓 About me...'
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **React,JavaScript,nodeJs,Express,MongoDb**
 
