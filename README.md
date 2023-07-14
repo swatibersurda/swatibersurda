@@ -5,7 +5,7 @@
    
    ##👩‍🎓 About me...'
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Bootstrap**
 
 - 💬 Ask me about **React,JavaScript,nodeJs,Express,MongoDb**
 
