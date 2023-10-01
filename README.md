@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati Bersurda</h1>
-<h3 align="center">Enthusiastic and solution-oriented aspiring full-stack developer.Self-directed and willing, with a keen interest in building user-centric products. I like to write logical and styled code it makes me more enthusiastic.</h3>
+<h3 align="center" color="black">Enthusiastic and solution-oriented aspiring full-stack developer.Self-directed and willing, with a keen interest in building user-centric products. I like to write logical and styled code it makes me more enthusiastic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatibersurda&label=Profile%20views&color=0e75b6&style=flat" alt="swatibersurda" /> </p>
    
